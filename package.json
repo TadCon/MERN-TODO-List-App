@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "@emotion/react": "^11.10.6",
+    "@emotion/styled": "^11.10.6",
+    "@mui/material": "^5.11.10",
+    "bcryptjs": "^2.4.3",
+    "lodash": "^4.17.21",
+    "passport": "^0.6.0",
+    "passport-local": "^1.0.0",
+    "react-router-dom": "^6.8.1"
+  }
+}

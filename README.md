@@ -1,7 +1,4 @@
-cors
-morgan
-dotenv
+Aplicación tipo TODO List desarrollada para el challenge de Digiventures.
 
-
-
-lodash > debounce: se utilizó para realizar un delay en el update de los TODOs, de modo que no se realice un update en cada modificación del texto
+Se utilizó el stack MERN.
+Se almacenaron las TODO List en MongoDB Atlas.
